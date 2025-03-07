@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Projects and Google Android development<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with Projects<br>🌱 I’m currently learning MERN Full Stack Development<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Full Stack Projects and Google Android development<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with Projects<br>🌱 I’m currently learning MERN Full Stack Development<br>💬 Ask me about Full stack and Google android<br>⚡ Fun fact I'm a Gemini
 
 
 ## 🌐 Socials:
