@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack Developer </h3>
 
 - 🌱 I’m currently learning **Advance Full stack development and Web3**
-- 💬 Ask me about **Fullstack, Blockchain ,Career**
+- 💬 Ask me about **Fullstack ,Career**
 - 📫 How to reach me **avularohini31@gmail.com**
 
 ---
